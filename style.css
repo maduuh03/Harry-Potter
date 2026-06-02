@@ -5,23 +5,37 @@ body{
     flex-direction: column;
 }
  h1{
-   color: rgba(151, 0, 0, 0.979);
+   color: rgba(245, 238, 238, 0.979);
 
  } 
  
- #imagem-principal{
+ #imagem-1{
    width: 1000px;
     border-radius: 30px;
  }  
     h2{
-      color: rgba(0, 107, 27, 0.979);
+      color: rgba(237, 247, 239, 0.075);
        
     }
-    #imagem-secundaria{
+    #imagem-2{
    width: 300px;
     border-radius: 30px;
  } 
-     #imagem-terciaria{
-   width: 750px;
+     #imagem-3{
+   width: 650px;
     border-radius: 30px;
  } 
+ h3{
+      color: rgb(255, 255, 255);
+       
+    }
+    
+            body { background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdOe_l19dXXvvDmXIlinalALGiZMBHupOWw&s');
+               background-size: cover
+              background-position: center;
+              background-attachment: fixed;
+ #imagem-4{
+   width: 650px;
+    border-radius: 30px;
+
+    background-repeat: no-repeat;
